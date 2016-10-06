@@ -15,3 +15,5 @@ A presentation about Perceived Performance
 - https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away?hl=en
 - https://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/
 - https://blog.codinghorror.com/progressive-image-rendering/
+- https://developers.google.com/web/fundamentals/performance/rail?hl=en
+- http://jxnblk.com/loading/
